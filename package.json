@@ -1,0 +1,23 @@
+{
+  "name": "clickheads-vr",
+  "description": "clickheads.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve --https index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  },
+  "keywords": [
+    "aframe",
+    "aframe-example",
+    "aframe-boilerplate",
+    "aframe-scene",
+    "webvr",
+    "vr"
+  ],
+  "dependencies": {
+    "aframe-physics-system": "^4.0.1"
+  }
+}
